@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/router/static/css/main.03c4738e.chunk.css",
+    "main.js": "/router/static/js/main.494015b6.chunk.js",
+    "main.js.map": "/router/static/js/main.494015b6.chunk.js.map",
+    "runtime~main.js": "/router/static/js/runtime~main.c258b595.js",
+    "runtime~main.js.map": "/router/static/js/runtime~main.c258b595.js.map",
+    "static/js/2.d5ed7b26.chunk.js": "/router/static/js/2.d5ed7b26.chunk.js",
+    "static/js/2.d5ed7b26.chunk.js.map": "/router/static/js/2.d5ed7b26.chunk.js.map",
+    "index.html": "/router/index.html",
+    "precache-manifest.e95f03167ed6c6e3e59f4adb75e1f4ea.js": "/router/precache-manifest.e95f03167ed6c6e3e59f4adb75e1f4ea.js",
+    "service-worker.js": "/router/service-worker.js",
+    "static/css/main.03c4738e.chunk.css.map": "/router/static/css/main.03c4738e.chunk.css.map"
+  }
+}

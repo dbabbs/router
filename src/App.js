@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import { parse } from 'terraformer-wkt-parser'
 
 const hereCredentials = {
    id: 'UQ75LhFcnAv0DtOUwBEA',
